@@ -321,7 +321,7 @@
   on:drop={composeDragHandler(onDropCb)}
 >
   <input
-    accept={accept?.toString()}
+    accept={accept ? accept.toString() : null}
     {multiple}
     {required}
     type="file"
