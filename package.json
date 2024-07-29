@@ -18,7 +18,7 @@
     }
   },
   "repository": {
-    "url": "https://github.com/thecodejack/svelte-file-dropzone"
+    "url": "https://github.com/osherz/svelte-file-dropzone"
   },
   "author": "thecodejack",
   "license": "MIT",
